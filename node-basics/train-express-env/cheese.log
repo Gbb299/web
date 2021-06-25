@@ -1,0 +1,27 @@
+[2021-04-13T20:44:08.261] [DEBUG] cheese - {}
+[2021-04-13T20:44:52.563] [DEBUG] cheese - {}
+[2021-04-13T20:46:33.350] [DEBUG] cheese - {}
+[2021-04-13T21:15:25.073] [DEBUG] cheese - [Object: null prototype] {
+  provinve: '上海',
+  city: '上海',
+  district: '宝山区',
+  adress: '同济支路199号智慧7立方3号楼2-4栋',
+  latitude: '43',
+  longtitude: '160',
+  message: '一条小鱼干',
+  contact: '199001',
+  type: 'sell',
+  time: '19001'
+}
+[2021-04-13T21:15:50.238] [DEBUG] cheese - [Object: null prototype] {
+  provinve: '上海',
+  city: '上海',
+  district: '宝山区',
+  adress: '同济支路199号智慧7立方3号楼2-4栋',
+  latitude: '43',
+  longtitude: '160',
+  message: '一条小鱼干',
+  contact: '199001',
+  type: 'sell',
+  time: '19001'
+}

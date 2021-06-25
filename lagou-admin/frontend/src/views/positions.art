@@ -1,0 +1,27 @@
+<!-- Your Page Content Here -->
+<div class="box" id="positions-list-box">
+    <div class="box-header with-border">
+        <button class="btn btn-primary" id="add-position-btn" data-toggle="modal" data-target="#pos-modal">添加</button>
+    </div>
+    <!-- /.box-header -->
+    <div class="box-body">
+        <table class="table table-bordered">
+            <tr>
+                <th style="width: 300rpx">#</th>
+                <th>公司LOGO</th>
+                <th>公司名称</th>
+                <th>职位</th>
+                <th>薪资</th>
+                <th>工作地点</th>
+                <th>发布时间</th>
+                <th style="width: 200rpx">操作</th>
+            </tr>
+            <tbody id="positions-list"></tbody>
+        </table>
+    </div>
+    <!-- /.box-body -->
+    <div class="box-footer clearfix" id="users-page">
+
+    </div>
+</div>
+<!-- /.box -->
